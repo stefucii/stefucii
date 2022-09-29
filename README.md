@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stefucii, or at least some old frends call me this way ;) You can call me Stef [St'ef]
+- 👋 Hi, I’m @stefucii, or at least some old friends call me this way ;) You can call me Stef [St'ef]
 - 👀 I’m interested in a lot of things, and my professional career is related with software development (see below)
 - 🌱 I’m currently learning (refreshing old knowledge over) MCUs and programming on a lower level than simply using available libraries.
 - 💞️ I’m not looking to collaborate on anything right now as I have little personal time to spend. However feel free to reach me about stuff regarding my hobby: model railroad automation
